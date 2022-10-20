@@ -1,1 +1,8 @@
-# leoalvez1
+- 🔭 Atualmente estou trabalhando ...
+- 🌱 Atualmente estou aprendendo computação
+- 👯 Estou procurando colaborar em ...
+- 🤔 Estou procurando ajuda com linguagem de ṕrogramação básica
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo:leonardo.rossi.santos@escola.pr.gov.br
+- 😄 Pronomes: ele/him
+- ⚡ Curiosidade: eu sou estudante de ensino médio
